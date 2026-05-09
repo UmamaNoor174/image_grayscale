@@ -55,5 +55,3 @@ This project serves as a foundational component for the Department of Informatio
 
 👤 Developer
 Umama Noor
-department Infromation Technology
-Program: Artificial Intelligence
